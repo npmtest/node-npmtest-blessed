@@ -1,7 +1,7 @@
 # test coverage for  [blessed (v0.1.81)](https://github.com/chjj/blessed)  [![npm package](https://img.shields.io/npm/v/npmtest-blessed.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-blessed) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-blessed.svg)](https://travis-ci.org/npmtest/node-npmtest-blessed)
 #### A high-level terminal interface library for node.js.
 
-[![NPM](https://nodei.co/npm/blessed.png?downloads=true)](https://www.npmjs.com/package/blessed)
+[![NPM](https://nodei.co/npm/blessed.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/blessed)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-blessed/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,11 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-blessed/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-blessed/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-blessed/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-blessed/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-blessed/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-blessed/build/coverage.html/index.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-blessed/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-blessed/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-blessed/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-blessed%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-blessed/build/test-report.html)
+[![test-report](https://npmtest.github.io/node-npmtest-blessed/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-blessed/build/test-report.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-blessed/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-blessed%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-blessed/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-blessed/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-blessed/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-blessed/build/screenCapture.npmPackageListing.svg)
 
@@ -64,14 +64,12 @@
     "main": "./lib/blessed.js",
     "maintainers": [
         {
-            "name": "chjj",
-            "email": "chjjeffrey@gmail.com"
+            "name": "chjj"
         }
     ],
     "name": "blessed",
     "optionalDependencies": {},
     "preferGlobal": false,
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/chjj/blessed.git"
